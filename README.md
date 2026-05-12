@@ -3,8 +3,12 @@
 </h1>
 
 <h2 align="center">
-  Desenvolvedora Full Stack • Flutter • FastAPI • Node.js • UX para Chatbots
+  Eu sou Maria Rocha
 </h2>
+
+<h3 align="center">
+  Desenvolvedora Full Stack • Flutter • FastAPI • Node.js • UX para Chatbots
+</h3>
 
 <br>
 
@@ -142,10 +146,10 @@ Leitura sincronizada para acessibilidade e foco em documentos.
 
 <td width="300px" align="center">
 
-<h3>🤝 Plataforma Social</h3>
+<h3>🚛 Gestão de Frotas</h3>
 
 <p>
-Sistema para conectar ONGs, voluntários e instituições.
+Sistema desenvolvido para gerenciamento e monitoramento de frotas, auxiliando no controle operacional e organização de veículos.
 </p>
 
 </td>
@@ -163,7 +167,7 @@ Sistema para conectar ONGs, voluntários e instituições.
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/marialuizaribeirorocha/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -171,7 +175,7 @@ Sistema para conectar ONGs, voluntários e instituições.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="SEU_INSTAGRAM">
+<a href="https://www.instagram.com/malurrocha/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
