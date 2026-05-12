@@ -1,48 +1,64 @@
-<h1 align="center">
-  Olá! 👋
-</h1>
+<div align="center">
 
-<h2 align="center">
-  Eu sou Maria Rocha
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=Desenvolvedora+Full+Stack;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;UX+para+Chatbots;Transformando+ideias+em+software+✨)](https://git.io/typing-svg)
 
-<h3 align="center">
-  Desenvolvedora Full Stack • Flutter • FastAPI • Node.js • UX para Chatbots
-</h3>
+</div>
 
 <br>
 
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner Maria Rocha"/>
-</div>
-
-<hr>
-
-<h2 align="center">💫 Sobre mim</h2>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="left">
+
+<td width="55%" align="left">
+
+<h2>💫 Sobre mim</h2>
 
 <pre>
 const maria = {
   foco: ["Código", "Disciplina", "Constância"],
+
   area: "Desenvolvimento Full Stack",
-  estudando: ["React", "Docker", "Arquitetura"],
+
+  estudando: [
+    "React",
+    "Docker",
+    "Arquitetura"
+  ],
+
   pesquisa: "UX para Chatbots",
+
   paixao: "Criar soluções acessíveis"
 }
 </pre>
 
+<br>
+
+🌱 Engenharia de Software  
+<br><br>
+
+🚀 Full Stack Developer  
+<br><br>
+
+📚 UX & Chatbots  
+
 </td>
+
+<td width="45%" align="center">
+
+<img 
+src="./assets/Desenvolvedora_maria.jpeg"
+width="100%"
+alt="Maria Rocha"
+/>
+
+</td>
+
 </tr>
 </table>
 
-</div>
-
 <br>
+
+<hr>
 
 <h2 align="center">🚀 Tecnologias & Ferramentas</h2>
 
@@ -96,21 +112,16 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Mariarocha0&theme=to
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
 ✅ Desenvolvendo aplicações Flutter  
-<br>
-✅ Trabalhando com APIs REST  
-<br>
-✅ Pesquisando UX para Chatbots  
-<br>
-✅ Aprendendo Docker e Arquitetura  
+<br><br>
 
-</td>
-</tr>
-</table>
+⚙️ Trabalhando com APIs REST  
+<br><br>
+
+🎓 Mestrado em UX para Chatbots  
+<br><br>
+
+🚀 Aprendendo Docker e Arquitetura  
 
 </div>
 
@@ -123,7 +134,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Mariarocha0&theme=to
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="300px" align="center">
 
 <h3>🩺 TchêAjudo</h3>
@@ -149,13 +162,26 @@ Leitura sincronizada para acessibilidade e foco em documentos.
 <h3>🚛 Gestão de Frotas</h3>
 
 <p>
-Sistema desenvolvido para gerenciamento e monitoramento de frotas, auxiliando no controle operacional e organização de veículos.
+Sistema desenvolvido para gerenciamento e monitoramento de frotas.
 </p>
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">🐍 Contribuições</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mariarocha0/Mariarocha0/output/snake.svg" alt="Snake animation" />
 
 </div>
 
