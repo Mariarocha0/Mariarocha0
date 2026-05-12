@@ -1,50 +1,190 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;+Eu+sou+Maria+Rocha!;&center=true&size=30">
-  </a>
+  Olá! 👋
 </h1>
+
+<h2 align="center">
+  Desenvolvedora Full Stack • Flutter • FastAPI • Node.js • UX para Chatbots
+</h2>
+
+<br>
+
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner Maria Rocha"/>
+</div>
+
 <hr>
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,javascript,css,laravel,c#" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,vscode,figma,php,supabase" />
+<h2 align="center">💫 Sobre mim</h2>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+<pre>
+const maria = {
+  foco: ["Código", "Disciplina", "Constância"],
+  area: "Desenvolvimento Full Stack",
+  estudando: ["React", "Docker", "Arquitetura"],
+  pesquisa: "UX para Chatbots",
+  paixao: "Criar soluções acessíveis"
+}
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mariarocha0&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Mariarocha0&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariarocha0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <br>
-  <br>
+
+<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,fastapi,python,javascript,typescript" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,figma,vscode,docker" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,linux,postman" />
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
+
+<br>
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Mariarocha0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariarocha0&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Mariarocha0&theme=tokyonight"
+/>
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">🌱 Atualmente</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+✅ Desenvolvendo aplicações Flutter  
+<br>
+✅ Trabalhando com APIs REST  
+<br>
+✅ Pesquisando UX para Chatbots  
+<br>
+✅ Aprendendo Docker e Arquitetura  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">📌 Projetos em Destaque</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="300px" align="center">
+
+<h3>🩺 TchêAjudo</h3>
+
+<p>
+Chatbot para auxiliar pessoas na busca por especialistas em saúde.
 </p>
-<!--
 
-**Mariarocha0/Mariarocha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
 
-Here are some ideas to get you started:
+<td width="300px" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📚 Aplicativo TTS</h3>
+
+<p>
+Leitura sincronizada para acessibilidade e foco em documentos.
+</p>
+
+</td>
+
+<td width="300px" align="center">
+
+<h3>🤝 Plataforma Social</h3>
+
+<p>
+Sistema para conectar ONGs, voluntários e instituições.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">🌐 Conecte-se comigo</h2>
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mariarocha0">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<hr>
+
+<div align="center">
+
+<h3>
+✨ Código é lógica, mas propósito é o que transforma ✨
+</h3>
+
+</div>
