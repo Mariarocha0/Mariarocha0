@@ -68,11 +68,11 @@ alt="Maria Rocha"
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,figma,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,docker" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,linux,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,postman" />
 
 </div>
 
